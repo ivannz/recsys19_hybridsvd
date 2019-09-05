@@ -7,4 +7,10 @@ setup(
     packages=[
         "hybsvd",
     ],
+    install_requires=[
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "polara",
+    ],
 )
